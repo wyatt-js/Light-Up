@@ -15,3 +15,5 @@ To win:
 2. No two bulbs may shine on each other
 
 3. Clue cells indicate how many bulbs must be placed adjacent to its four sides
+
+![Screenshot 2024-12-16 at 19.28.00.png](..%2F..%2F..%2F..%2F..%2Fvar%2Ffolders%2Fjz%2Fk778knvj7vbf5hm7xsmpth700000gn%2FT%2FTemporaryItems%2FNSIRD_screencaptureui_uAzoIT%2FScreenshot%202024-12-16%20at%2019.28.00.png)
