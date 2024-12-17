@@ -16,4 +16,4 @@ To win:
 
 3. Clue cells indicate how many bulbs must be placed adjacent to its four sides
 
-![Preview Image](https://github.com/wyatt-js/Light-Up/tree/main/src/main/resources/readme-ss.png?raw=true)
+![Preview Image](src/main/resources/readme-ss.png)
