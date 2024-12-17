@@ -1,4 +1,8 @@
-To run the game with Maven in IntelliJ, follow these steps:
+To run the game:
+
+1. Run LightUp.jar in intelliJ
+
+To run the game with Maven in intelliJ, follow these steps:
 
 1. Click the vertical "Maven" expansion tab which is on the right side of the IntelliJ window.
 
