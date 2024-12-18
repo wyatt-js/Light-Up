@@ -1,6 +1,9 @@
+# Light-Up
+
 To run the game:
 
-1. Run LightUp.jar in intelliJ
+1. Run the following command in cli:
+   ```java -jar
 
 To run the game with Maven in intelliJ, follow these steps:
 
