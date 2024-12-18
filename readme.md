@@ -3,8 +3,8 @@
 To run the game:
 
 1. Run the following command in cli w/ file path:
-   ```
-   java -jar LightUp.jar
+   
+   ``` java -jar LightUp.jar
 
 To win:
 
